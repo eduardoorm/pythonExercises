@@ -7,6 +7,7 @@ s=0
 for i in cadena:
     for j in mayusculas:
         if(i==j):
-            s=+1
+            s=s+1
+            print(s)
 
 print(f'tiene {s} mayusculas')
