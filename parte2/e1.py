@@ -10,7 +10,5 @@ def max_in_list(list):
     
     return mayor
 
-
-
 nmayor= max_in_list([1,9,3,20,0])
 print(f'el numero mayor es {nmayor}')
